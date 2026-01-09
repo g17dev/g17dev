@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hola, soy g17dev
 
-<!--
-**g17dev/g17dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona curiosa que aprende y construye en torno a:
+- 💻 Desarrollo de software
+- 🔐 Ciberseguridad
+- 🤖 Inteligencia Artificial
 
-Here are some ideas to get you started:
+Documentar lo que aprendo es parte de mi proceso.
+No escribo desde la postura de experto, sino desde la práctica y la experimentación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 En qué estoy trabajando actualmente
+- Fortaleciendo fundamentos técnicos
+- Construyendo proyectos pequeños pero completos
+- Documentando aprendizajes, errores y decisiones
+- Manteniendo un ritmo sostenible de aprendizaje
+
+---
+
+## 🛠️ Proyectos
+- 🔹 **Proyecto A** – breve descripción + aprendizaje
+- 🔹 **Proyecto B** – problema que aborda
+- 🔹 **Proyecto C** – enfoque técnico
+
+*(los proyectos evolucionan con el tiempo)*
+
+---
+
+## ✍️ Artículos
+Comparto reflexiones técnicas y de aprendizaje en:
+- DevCommunity: [enlace]
+
+---
+
+## 🎥 Videos (opcional)
+- YouTube: [enlace]
+
+---
+
+## 🌱 Filosofía
+Creo que aprender en público, con honestidad y constancia,
+es más valioso que aparentar saberlo todo.
+
+---
+
+## 📫 Contacto
+- Email profesional: contacto@proton.me
+- LinkedIn: [enlace]
