@@ -1,4 +1,4 @@
-# 👋 Hola, soy g17dev
+# 👋 Hola, soy Jacob
 
 Soy una persona curiosa que aprende y construye en torno a:
 - 💻 Desarrollo de software
